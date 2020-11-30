@@ -67,9 +67,10 @@ html {
   img {
     animation: none;
   }
+
 }
 
-@media (prefers-color-scheme:dark) {
+@media (prefers-color-scheme: dark) {
   body {
     background-color: #333;
   }
@@ -77,6 +78,7 @@ html {
   .banner {
     opacity: .5;
   }
+
 }
 
 /* stylelint-enable */
